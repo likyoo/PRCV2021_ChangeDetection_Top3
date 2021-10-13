@@ -3,7 +3,7 @@ PRCV2021变化检测竞赛第三名解决方案
 
 
 
-本仓库基于[change_detection.pytorch](https://github.com/likyoo/change_detection.pytorch)，部分代码未经整理，可读性可能较差。后续会将比较有效的模型和策略添加到**change_detection.pytorch**中，欢迎star！:)
+本仓库基于[change_detection.pytorch](https://github.com/likyoo/change_detection.pytorch)，部分代码还未经整理，可读性可能较差。后续会将比较有效的模型和策略添加到**change_detection.pytorch**中，欢迎star！:)
 
 
 
