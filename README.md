@@ -1,7 +1,7 @@
 # PRCV2021_ChangeDetection_Top3
 [PRCV2021变化检测竞赛](https://captain-whu.github.io/PRCV2021_RS/index.html)第三名解决方案
 
-# Note: 于2022/12/13，本比赛（由航天宏图主办）仍未发放比赛奖金，获奖同学多次催促无果。
+# Note: 于2022/12/13，本比赛（由航天宏图赞助，武汉大学主办）仍未发放比赛奖金，获奖同学多次催促无果。
 
 
 
