@@ -1,9 +1,6 @@
 # PRCV2021_ChangeDetection_Top3
 [PRCV2021变化检测竞赛](https://captain-whu.github.io/PRCV2021_RS/index.html)第三名解决方案
 
-# Note: 于2022/12/13，本比赛（由航天宏图赞助，武汉大学主办）仍未发放比赛奖金，获奖同学多次催促无果。
-
-
 
 本仓库基于[change_detection.pytorch](https://github.com/likyoo/change_detection.pytorch)，部分代码还未经整理，可读性可能较差。后续会将比较有效的模型和策略添加到**change_detection.pytorch**中，欢迎star！:)
 
